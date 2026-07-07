@@ -1,10 +1,10 @@
-# Apsenz Apple Music
+﻿# Apsenz Apple Music
 
 ![Apsenz Apple Music Discord preview](docs/preview-discord.png)
 
 **Apple Music Rich Presence for Discord on Windows.**
 
-Apsenz shows your current Apple Music track on Discord with song title, artist, album artwork, and progress bar.
+Apsenz Apple Music shows your current Apple Music track on Discord with song title, artist, album artwork, and progress.
 
 ## Recommended
 
@@ -14,13 +14,25 @@ The Windows desktop app is included as an optional standalone version.
 
 ## Download
 
+Get the latest version from the release page:
+
+https://github.com/Apsenz/Apsenz-Apple-Music/releases/latest
+
 ### Recommended: Vencord Plugin
 
-[Download Vencord Plugin ZIP](https://github.com/Apsenz/Apsenz-Apple-Music/releases/latest/download/ApsenzAppleMusic_Vencord_Plugin.zip)
+Download:
+
+`ApsenzAppleMusic_Vencord_Plugin.zip`
+
+Use this if you already use Vencord. This is the recommended option.
 
 ### Windows Desktop App
 
-[Download Windows App Installer](https://github.com/Apsenz/Apsenz-Apple-Music/releases/latest/download/Apsenz-Apple-Music-windows-x64-installer.exe)
+Download:
+
+`Apsenz-Apple-Music-windows-x64-installer.exe`
+
+Use this if you want a normal Windows app with an installer.
 
 ## Install Vencord Plugin
 
@@ -33,6 +45,14 @@ The Windows desktop app is included as an optional standalone version.
 ## Uninstall Vencord Plugin
 
 Run `ApsenzAppleMusic-uninstaller.bat`.
+
+## Privacy
+
+Apsenz Apple Music is designed to use Apple Music only.
+
+It should not show YouTube, browser videos, or other media apps in Discord Rich Presence.
+
+Read more: [PRIVACY.md](PRIVACY.md)
 
 <details>
 <summary>More screenshots</summary>
@@ -50,6 +70,10 @@ Run `ApsenzAppleMusic-uninstaller.bat`.
 ![Tray App](docs/preview-tray.png)
 
 </details>
+
+## Support
+
+Read: [SUPPORT.md](SUPPORT.md)
 
 Server Discord https://discord.gg/k5zFTFjEhU
 
