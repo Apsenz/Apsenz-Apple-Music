@@ -1,16 +1,21 @@
 ﻿# Apsenz Apple Music
 
+![Latest Release](https://img.shields.io/github/v/release/Apsenz/Apsenz-Apple-Music?label=release)
+![Platform](https://img.shields.io/badge/platform-Windows-blue)
+![Recommended](https://img.shields.io/badge/recommended-Vencord%20Plugin-purple)
+![License](https://img.shields.io/github/license/Apsenz/Apsenz-Apple-Music)
+
 ![Apsenz Apple Music Discord preview](docs/preview-discord.png)
 
 **Apple Music Rich Presence for Discord on Windows.**
 
-Apsenz Apple Music shows your current Apple Music track on Discord with song title, artist, album artwork, and progress.
+Apsenz Apple Music shows your current Apple Music track on Discord with song title, artist, album artwork, and playback progress.
 
 ## Recommended
 
 Use the **Vencord Plugin** if you already use Vencord.
 
-The Windows desktop app is included as an optional standalone version.
+The Windows desktop app is also available as an optional standalone version.
 
 ## Download
 
@@ -54,28 +59,21 @@ It should not show YouTube, browser videos, or other media apps in Discord Rich 
 
 Read more: [PRIVACY.md](PRIVACY.md)
 
-<details>
-<summary>More screenshots</summary>
+## Screenshots
 
-### Windows Desktop App
+More screenshots are available here:
 
-![Windows Desktop App](docs/preview-app.png)
-
-### Vencord Plugin Settings
-
-![Vencord Plugin Settings](docs/preview-plugin-settings.png)
-
-### Tray App
-
-![Tray App](docs/preview-tray.png)
-
-</details>
+[View screenshots](docs/SCREENSHOTS.md)
 
 ## Support
 
 Read: [SUPPORT.md](SUPPORT.md)
 
 Server Discord https://discord.gg/k5zFTFjEhU
+
+## Changelog
+
+Read: [CHANGELOG.md](CHANGELOG.md)
 
 ## License
 
